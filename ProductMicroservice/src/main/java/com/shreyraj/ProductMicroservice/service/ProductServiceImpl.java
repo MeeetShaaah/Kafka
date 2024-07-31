@@ -1,7 +1,6 @@
 package com.shreyraj.ProductMicroservice.service;
 
 import java.util.UUID;
-import java.util.concurrent.CompletableFuture;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
